@@ -1,3 +1,4 @@
+
 var numerals = ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII']
 var icons = {
   attack: ['swords', 25, 80, 1],
@@ -252,6 +253,7 @@ function resumeCpu() {
     CPU()
   }
 }
+
 
 function changeTurn() {
   turn = (turn + 1) % 2
@@ -687,6 +689,7 @@ function cpuPickCard() {
     }, () => {})
   }
 }
+
 
 function playerUseShamrockOrDie(deathCard, luckyHand) {
   if(luckyHand.length == 0) {

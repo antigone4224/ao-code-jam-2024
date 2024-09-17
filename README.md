@@ -13,4 +13,4 @@
 
 祝你好运，尽可能多地用“绿色炸弹”获胜！
 
-deployed on permaweb:[the game](https://jksmpswshecdjqh5dvqj2dammlddw6onph7njtuwgvahroc72xzq.arweave.net/SqTHytI5BDTA_R1gnQwMYsY7ec15_tTOljVAeLhf1fM/)
+deployed on permaweb:[ao-game-jam (arweave.net)](https://ayosmd6f7w3vogw5xw6tlkzmlvgn4hfp27muagbwzpoj2pbmiwwa.arweave.net/Bh0mD8X9t1ca3b29NassXUzeHK_X2UAYNsvcnTwsRaw/)
